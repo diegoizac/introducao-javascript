@@ -1,0 +1,23 @@
+[33mcommit 53c5fed5aded33e1a5cfe8be2ee018cefb695f53[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Diego Izac Luis da Silva <diegoizac@hotmail.com>
+Date:   Mon Mar 23 17:46:09 2020 -0300
+
+    Adição dos arquivos do download 3
+
+[33mcommit 7f0d552bd573d6db3fc460b878937950f5c0882a[m
+Author: Diego Izac Luis da Silva <diegoizac@hotmail.com>
+Date:   Mon Mar 23 12:51:32 2020 -0300
+
+    Adicionada mensagem de alerta quando peso e altura estiverem incorretos
+
+[33mcommit a36d648d3cc631727d6393aa4fbbf984459103d5[m
+Author: Diego Izac Luis da Silva <diegoizac@hotmail.com>
+Date:   Mon Mar 23 12:38:59 2020 -0300
+
+    ajuste das validações antes dos calculo do imc
+
+[33mcommit 4e5d7c9fe7e89abf8ec2ffe284086bb798c94778[m
+Author: Diego Izac Luis da Silva <diego.silva@pampa.compasso>
+Date:   Mon Mar 23 11:27:11 2020 -0300
+
+    Curso de introdução ao Java Script Alura
